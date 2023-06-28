@@ -1,0 +1,11 @@
+# Syntax Colouring Map For RLArduino_EEPROM_I2C
+
+# Data types (KEYWORD1)
+RLArduino_EEPROM_I2C	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin KEYWORD2
+write KEYWORD2
+read KEYWORD2
+
+# Constants (LITERAL1)
