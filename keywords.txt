@@ -9,3 +9,4 @@ write KEYWORD2
 read KEYWORD2
 
 # Constants (LITERAL1)
+LIB_VERSION	LITERAL1
