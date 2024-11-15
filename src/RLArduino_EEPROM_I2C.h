@@ -18,7 +18,7 @@ Revision History
 #include <Adafruit_I2CDevice.h>
 #include <Arduino.h>
 
-#define LIB_VERSION  (F("1.0.0"))
+#define RL_ARDUINO_EEPROM_I2C_LIB_VERSION  (F("1.0.0"))
 
 ///<* 1010 + A2 + A1 + A0 = 0x50 default */
 #define EEPROM_DEFAULT_ADDRESS (0x50)
